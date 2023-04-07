@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Online
+Icon=/home/student/Desktop/SIMPLE_ONLINE_EXAM-master/pics/online.jpg
+Exec=python3 /home/student/Desktop/SIMPLE_ONLINE_EXAM-master/testing.py
+Type=Application
+Terminal=true
+Version=0.99
+
+Name[en_IN]=icon
